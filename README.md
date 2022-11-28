@@ -1,8 +1,9 @@
-### Hi there 👋, I'm Rory
+<h1 align="center">Hi 👋, I'm Rory</h1>
+<h3 align="center">I am an AI Technician at FourteenIP</h3>
 
 
 - 🔭 I’m currently working on my website!
 - 🌱 I’m currently learning at **FourteenIP**
 - 🤔 I’m looking for help with developing my skills.
-- 📫 How to reach me: Email me any time! I love to get to know like-minded people - aks me anything!
+- 📫 How to reach me: Email me any time! I love getting to know like-minded people - ask me anything!
 - ⚡ Fun fact: I love learning languages!
