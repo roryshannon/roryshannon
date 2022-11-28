@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rory</h1>
-<h3 align="center">I am an AI Technician at FourteenIP</h3>
+<h3 align="center">AI Technician at FourteenIP</h3>
 
 
 - 🔭 I’m currently working on my website!
